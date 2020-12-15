@@ -8,3 +8,4 @@
 * Forked from [kn007/DPlayer-Lite](https://github.com/kn007/DPlayer-Lite)
 * Rename README.md to README_BAK.md
 * Create README.md
+.
